@@ -1,4 +1,4 @@
-# Frontend Mentor - Social page solution
+# Frontend Mentor - social links profile solution
 
 This is a solution to the [Recipe page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/recipe-page-KiTsR8QQKm). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
@@ -16,12 +16,12 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Screenshot
 
-![](./Screenshot.png)
+![](./screenshot.png)
 
 ### Links
 
-- Solution URL: [solution URL]()
-- Live Site URL: [live site URL]()
+- Solution URL: [solution URL](https://github.com/MeowB/social-links-profile-main)
+- Live Site URL: [live site URL](https://meowb.github.io/social-links-profile-main/)
 
 ## My process
 
