@@ -1,0 +1,77 @@
+@font-face {
+  font-family: Inter;
+  src: url(../assets/fonts/Inter-VariableFont_slnt\,wght.ttf);
+}
+* {
+  margin: 0;
+  padding: 0;
+  color: white;
+  font-family: Inter, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+}
+* p {
+  font-size: 14px;
+}
+
+body {
+  background-color: #141414;
+}
+
+.wrapper {
+  background-color: #1f1f1f;
+  width: 90%;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  border-radius: 20px;
+  max-width: 375px;
+}
+.wrapper header {
+  text-align: center;
+}
+.wrapper header img {
+  border-radius: 50%;
+  width: 120px;
+  margin: 30px 0 10px 0;
+}
+.wrapper header h1 {
+  margin-bottom: 10px;
+  font-weight: 400;
+}
+.wrapper header p:nth-child(3) {
+  color: #c5f82a;
+  font-size: 20px;
+  margin-bottom: 40px;
+}
+.wrapper header p:last-child {
+  font-weight: 200;
+  font-size: 18px;
+  margin-bottom: 20px;
+}
+.wrapper main {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  margin-bottom: 20px;
+}
+.wrapper main a {
+  background-color: #333333;
+  padding: 20px 80px;
+  margin: 10px 20px;
+  border-radius: 15px;
+  text-decoration: none;
+  font-weight: 600;
+}
+.wrapper main a:active {
+  color: #141414;
+  background-color: #c5f82a;
+}
+
+footer {
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  transform: translate(-50%, 0);
+}
+
+/*# sourceMappingURL=style.css.map */
